@@ -44,7 +44,6 @@ The Propensify project demonstrates a comprehensive approach to predicting custo
 -	Seaborn
 -	Sweetviz
 -	Joblib
--	
 
 ## *Thank you!*
 
