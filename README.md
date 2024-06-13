@@ -45,6 +45,7 @@ The Propensify project demonstrates a comprehensive approach to predicting custo
 -	Sweetviz
 -	Joblib
 
-## *Thank you!*
+## Contributor:
+*Muskan Aggarwal* (muskanaggarwal882@gmail.com)
 
 
